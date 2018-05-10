@@ -1,3 +1,0 @@
-[submodule "plugin/external"]
-	path = plugin/external
-	url = https://github.com/calevans/external.git
